@@ -22,8 +22,8 @@
 -define(DEFAULT_TEST_DEPS_DIR, "test/lib").
 -define(DEFAULT_RELEASE_DIR, "rel").
 -define(DEFAULT_CONFIG_FILE, "rebar.config").
--define(DEFAULT_CDN, "https://s3.amazonaws.com/s3.hex.pm/tarballs").
--define(DEFAULT_HEX_REGISTRY, "https://s3.amazonaws.com/s3.hex.pm/registry.ets.gz").
+-define(DEFAULT_CDN, "https://repo.hex.pm/").
+-define(DEFAULT_HEX_REGISTRY, "https://repo.hex.pm/registry.ets.gz").
 -define(LOCK_FILE, "rebar.lock").
 
 -define(PACKAGE_INDEX_VERSION, 3).
