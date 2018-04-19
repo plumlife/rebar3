@@ -22,7 +22,7 @@
 -define(DEFAULT_TEST_DEPS_DIR, "test/lib").
 -define(DEFAULT_RELEASE_DIR, "rel").
 -define(DEFAULT_CONFIG_FILE, "rebar.config").
--define(DEFAULT_CDN, "https://repo.hex.pm/").
+-define(DEFAULT_CDN, "https://repo.hex.pm/tarballs").
 -define(DEFAULT_HEX_REGISTRY, "https://repo.hex.pm/registry.ets.gz").
 -define(LOCK_FILE, "rebar.lock").
 
